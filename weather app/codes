@@ -8,7 +8,7 @@ import webbrowser
 import os
 
 
-api_key = "8b5d36d3515b7c4ffd88457833de5266"
+api_key = "8b5d3######36" # use your api key
 base_url = "https://api.openweathermap.org/data/2.5/weather"
 
 
