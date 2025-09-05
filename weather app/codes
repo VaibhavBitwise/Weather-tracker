@@ -2,9 +2,7 @@ import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
 import requests
-import threading
 import speech_recognition as sr
-import webbrowser
 import os
 
 
